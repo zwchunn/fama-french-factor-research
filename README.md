@@ -1,6 +1,6 @@
 # Fama-French Three-Factor & Fama-MacBeth Research
 
-本專案使用 Python 建立一套美股因子研究流程，分析個股對市場、規模與價值因子的曝險，並透過樣本外測試與 Fama-MacBeth 橫斷面迴歸檢驗因子風險溢酬。
+本檔案使用 Python 研究三因子流程，分析個股對市場、規模與價值因子的曝險，並透過樣本外測試與 Fama-MacBeth 橫斷面迴歸檢驗因子風險溢酬。
 
 ## Data
 
